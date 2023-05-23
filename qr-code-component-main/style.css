@@ -1,0 +1,46 @@
+body {
+    background-color: gray;
+}
+
+.container {
+    display: block;
+    padding-top: 1%;
+    margin-top: 5%;
+    margin-left: 39%;
+    margin-right: 39%;
+    padding-bottom: 1%;
+    background-color: white;
+    border-radius: 5%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    margin-top: 2%;
+}
+
+img {
+    align-content: center;
+    border-radius: 3%;
+}
+
+.content {
+    font-family: Arial;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    inline-size: 280px;
+    overflow-wrap: break-word;    
+}
+
+.first {
+    font-size: 23px;
+    padding-top: 0%;
+}
+
+.second{
+    font-size: 15px;
+}
